@@ -1,0 +1,283 @@
+{
+  "intro": [
+    {
+      "kind": "paragraph",
+      "text": "La política de seguridad de PATIPS establece los criterios preventivos para proteger a las personas usuarias, a los niños que utilizan los materiales educativos, al fundador y a los colaboradores, así como a la información administrada por la aplicación y a los kits físicos que comercializa el emprendimiento. Esta política se plantea considerando que PATIPS combina una plataforma digital de orientación para padres primerizos, la posible coordinación de asesorías con profesionales y la venta de kits educativos inspirados en los enfoques Montessori y Waldorf."
+    },
+    {
+      "kind": "paragraph",
+      "text": "La seguridad debe gestionarse como una condición transversal del servicio y no solo como una respuesta ante accidentes. En el ámbito laboral, la prevención de riesgos y la responsabilidad de la organización se relacionan con la Ley de Seguridad y Salud en el Trabajo y su reglamento (Congreso de la República del Perú, 2011b; Presidencia de la República del Perú, 2012). En el ámbito digital, el tratamiento de datos debe considerar la Ley de Protección de Datos Personales y su reglamento vigente (Congreso de la República del Perú, 2011a; Ministerio de Justicia y Derechos Humanos, 2024). Para los productos destinados a niños, corresponde revisar las disposiciones aplicables a juguetes y útiles de escritorio, incluidos los requisitos sanitarios y de rotulado que resulten exigibles (Ministerio de Salud, 2007)."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Dado que PATIPS se encuentra planteado como un emprendimiento en desarrollo, las medidas descritas constituyen compromisos y procedimientos propuestos para implementar de forma progresiva antes del lanzamiento comercial. Su aplicación deberá verificarse con asesoría técnica o legal cuando corresponda, especialmente si se incorporan trabajadores, se amplía el catálogo de kits o se presta el servicio en otros países."
+    }
+  ],
+  "sections": [
+    {
+      "title": "Objetivo de la política de seguridad",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "El objetivo general es prevenir daños y reducir los riesgos asociados con las actividades de PATIPS, mediante medidas de seguridad laboral, control de calidad de los kits, protección de datos personales, continuidad operativa y atención ordenada de incidentes. Se busca generar confianza entre las familias usuarias y garantizar que los servicios y productos se ofrezcan con información clara, controles razonables y responsabilidades definidas."
+        },
+        {
+          "kind": "paragraph",
+          "text": "De manera específica, la política persigue:"
+        },
+        {
+          "kind": "bullet",
+          "text": "a) Prevenir accidentes y riesgos ocupacionales. Mantener condiciones de trabajo seguras para el fundador y para los colaboradores que participen en el desarrollo de la aplicación, la gestión comercial, el almacenamiento o el despacho de kits."
+        },
+        {
+          "kind": "bullet",
+          "text": "b) Proteger a los niños y sus familias. Seleccionar productos adecuados a la edad recomendada, comunicar advertencias de uso y evitar que los contenidos de la aplicación se presenten como sustitutos de una evaluación profesional cuando esta sea necesaria."
+        },
+        {
+          "kind": "bullet",
+          "text": "c) Salvaguardar la información. Limitar la recolección de datos personales, controlar los accesos a los sistemas y aplicar medidas de prevención frente a pérdida, divulgación, modificación o uso no autorizado de información."
+        },
+        {
+          "kind": "bullet",
+          "text": "d) Mantener la continuidad del servicio. Preparar procedimientos de respaldo, respuesta ante fallas tecnológicas, incidentes de seguridad y emergencias que puedan afectar la atención a usuarios o la entrega de pedidos."
+        }
+      ]
+    },
+    {
+      "title": "Alcance y responsables de la seguridad",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "La política se aplica a todas las actividades vinculadas con PATIPS: uso y administración de la aplicación, sitio web y cuentas digitales; almacenamiento y tratamiento de información de usuarios; coordinación de asesorías; elaboración de contenidos; selección de proveedores; recepción, revisión, almacenamiento, empaquetado y envío de kits; atención de reclamos; y promoción del servicio. También alcanza a los terceros que, por contrato o autorización, accedan a sistemas, bases de datos o información de la empresa."
+        },
+        {
+          "kind": "paragraph",
+          "text": "Como responsable principal, el fundador deberá aprobar la política, identificar los riesgos prioritarios, asignar tareas, mantener los registros básicos y revisar que los proveedores y colaboradores comprendan las obligaciones aplicables. En la etapa inicial, algunas funciones técnicas pueden contratarse externamente; sin embargo, esa contratación no elimina la necesidad de supervisar los accesos, establecer acuerdos de confidencialidad y verificar que existan medidas mínimas de seguridad."
+        },
+        {
+          "kind": "paragraph",
+          "text": "El desarrollador o proveedor tecnológico deberá aplicar actualizaciones, configurar permisos, habilitar copias de respaldo y comunicar vulnerabilidades o incidentes. Los profesionales que participen en asesorías serán responsables de trabajar dentro de sus competencias, proteger la información que reciban y mantener actualizadas sus credenciales y datos profesionales. Los proveedores de kits deberán entregar productos identificables, con información suficiente sobre materiales, uso, edad recomendada y advertencias, además de la documentación legal que resulte aplicable. Cada función deberá formalizarse por escrito en la medida en que se incorporen colaboradores o se establezcan alianzas."
+        }
+      ]
+    },
+    {
+      "title": "Seguridad y salud en el trabajo",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "PATIPS no requiere necesariamente una planta de fabricación, ya que parte importante de su operación es digital; aun así, las actividades administrativas, la manipulación de cajas, el empaquetado y los despachos pueden generar riesgos. La empresa deberá identificar los peligros asociados con las tareas reales, evaluar su probabilidad y consecuencias, y establecer controles razonables. Estas medidas deberán adecuarse a las obligaciones previstas en la normativa peruana de seguridad y salud en el trabajo según la modalidad de operación y el personal que se incorpore (Congreso de la República del Perú, 2011b; Presidencia de la República del Perú, 2012)."
+        },
+        {
+          "kind": "bullet",
+          "text": "Ergonomía y organización del puesto. Mantener una silla y una mesa adecuadas, ubicar la pantalla a una altura cómoda, realizar pausas periódicas y alternar tareas para reducir fatiga visual y molestias musculoesqueléticas."
+        },
+        {
+          "kind": "bullet",
+          "text": "Manipulación de materiales. Al mover paquetes, levantar las cargas cerca del cuerpo, evitar giros bruscos, no apilar cajas por encima de una altura segura y solicitar apoyo para bultos que no puedan manipularse sin esfuerzo excesivo."
+        },
+        {
+          "kind": "bullet",
+          "text": "Instalaciones eléctricas. Evitar conexiones sobrecargadas, cables expuestos, enchufes deteriorados y líquidos próximos a equipos informáticos. Los dispositivos deben desconectarse de forma segura cuando requieran limpieza o mantenimiento."
+        },
+        {
+          "kind": "bullet",
+          "text": "Orden e higiene. Mantener libres de obstáculos los pasillos, las salidas y las zonas de empaquetado; retirar residuos y materiales cortantes; y guardar los útiles de trabajo en un lugar definido."
+        },
+        {
+          "kind": "bullet",
+          "text": "Respeto y bienestar. Promover un ambiente de trabajo libre de hostigamiento, discriminación y conductas intimidatorias. Los incidentes o condiciones inseguras deberán poder comunicarse sin represalias."
+        }
+      ]
+    },
+    {
+      "title": "Seguridad de las instalaciones y equipos",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "Las áreas utilizadas para la gestión de PATIPS deberán contar con iluminación, ventilación y espacio adecuados a las tareas. Si el trabajo se realiza desde una vivienda o espacio compartido, se deberá separar, en la medida de lo posible, el área de almacenamiento de kits de las zonas de preparación de alimentos, descanso o circulación de niños y mascotas. Las cajas se colocarán en estanterías estables, sin bloquear puertas ni rutas de evacuación y sin exponer los productos a humedad, calor excesivo, polvo o luz directa que pueda deteriorarlos."
+        },
+        {
+          "kind": "paragraph",
+          "text": "Los equipos informáticos y teléfonos usados para administrar la aplicación deberán mantenerse actualizados y protegidos mediante bloqueo de pantalla, contraseñas robustas y, cuando esté disponible, autenticación multifactor. El acceso administrativo se concederá solo a las personas que lo requieran para cumplir sus funciones. No deberán compartirse cuentas personales ni conservar contraseñas en archivos de texto sin protección. Los equipos prestados, reparados o dados de baja deberán revisarse para evitar que queden accesibles datos, sesiones activas o copias de información de los usuarios."
+        },
+        {
+          "kind": "paragraph",
+          "text": "La empresa deberá contratar servicios tecnológicos y de almacenamiento que describan sus funciones, condiciones de disponibilidad y mecanismos de protección. Antes de poner la aplicación en producción, se deberá comprobar el funcionamiento de las funciones esenciales, los permisos de usuario, los pagos y los mecanismos de recuperación ante fallas. Cuando ocurra una interrupción, se informará a los usuarios afectados si corresponde y se evitará prometer plazos de restablecimiento que no hayan sido confirmados."
+        }
+      ]
+    },
+    {
+      "title": "Protección de los productos, materiales e información",
+      "blocks": [
+        {
+          "kind": "heading",
+          "text": "Seguridad de los kits educativos"
+        },
+        {
+          "kind": "paragraph",
+          "text": "Los kits PATIPS están dirigidos a familias con niños pequeños, por lo que la selección de componentes debe priorizar la idoneidad para la edad, la integridad de los materiales y la claridad de las instrucciones. Antes de comercializar un kit, se revisarán los acabados, bordes, piezas sueltas, cierres, elementos desprendibles y cualquier característica que pueda crear riesgos previsibles durante el uso. No se deberán incluir materiales con señales de deterioro, olores anormales, contaminación, piezas rotas o procedencia dudosa."
+        },
+        {
+          "kind": "paragraph",
+          "text": "El empaque o la guía del producto deberá indicar, según corresponda, la edad recomendada, el modo de uso, las advertencias, la necesidad de supervisión adulta y las precauciones de almacenamiento. En especial, las piezas pequeñas no deberán presentarse como adecuadas para niños que puedan llevárselas a la boca si existe riesgo de atragantamiento. Los kits deben utilizarse bajo supervisión adulta y de acuerdo con las instrucciones; la orientación de la aplicación no elimina la responsabilidad del adulto de vigilar la actividad del niño."
+        },
+        {
+          "kind": "paragraph",
+          "text": "PATIPS seleccionará proveedores que puedan identificar el producto y facilitar la documentación de calidad y seguridad disponible. Cuando un componente encaje en la categoría legal de juguete o útil de escritorio, la empresa deberá verificar los registros, autorizaciones sanitarias, ensayos y requisitos de rotulado que correspondan antes de fabricar, importar, almacenar, distribuir o comercializarlo. La regulación peruana prohíbe la comercialización de juguetes y útiles de escritorio tóxicos o peligrosos y contempla requisitos específicos para estas actividades (Ministerio de Salud, 2007). Si se recibe un reclamo por daño o un indicio de defecto, la venta del lote afectado deberá suspenderse preventivamente mientras se evalúa el caso; si procede, se comunicará a los compradores y se organizará la devolución, reposición o retiro del producto."
+        },
+        {
+          "kind": "heading",
+          "text": "Protección de datos y seguridad digital"
+        },
+        {
+          "kind": "paragraph",
+          "text": "La aplicación puede procesar datos de padres, datos de contacto, información relacionada con el desarrollo infantil y, si se coordinan asesorías, información que pudiera revelar aspectos de salud o bienestar. Por ello, PATIPS deberá recopilar solo los datos necesarios para prestar el servicio, explicar la finalidad de su uso, limitar los accesos y conservar la información únicamente durante el tiempo justificado por la finalidad y las obligaciones legales. El tratamiento debe adecuarse a la Ley N.° 29733 y a su reglamento aprobado por el Decreto Supremo N.° 016-2024-JUS (Congreso de la República del Perú, 2011a; Ministerio de Justicia y Derechos Humanos, 2024)."
+        },
+        {
+          "kind": "paragraph",
+          "text": "Como regla de diseño, el registro y la gestión de la cuenta deberán estar a cargo de una persona adulta responsable. Si se recolectan datos de un menor, se deberá evaluar previamente la necesidad de hacerlo, el fundamento jurídico aplicable y las medidas de protección requeridas; se evitará publicar información identificable del niño o utilizarla para publicidad personalizada sin una base válida. Siempre que sea suficiente para personalizar las actividades, se preferirán datos generales, como el rango de edad, en lugar de información detallada que no resulte necesaria."
+        },
+        {
+          "kind": "paragraph",
+          "text": "La política operativa incluirá, como mínimo, los siguientes controles:"
+        },
+        {
+          "kind": "bullet",
+          "text": "Accesos limitados. Asignar permisos por función y retirar los accesos cuando termine una relación de trabajo o de prestación de servicios."
+        },
+        {
+          "kind": "bullet",
+          "text": "Protección técnica. Usar conexiones cifradas, contraseñas seguras, autenticación multifactor cuando esté disponible, actualizaciones de seguridad y copias de respaldo con acceso restringido."
+        },
+        {
+          "kind": "bullet",
+          "text": "Pagos. Utilizar pasarelas de pago reconocidas y evitar almacenar directamente números completos de tarjetas, códigos de seguridad u otros datos financieros que el proyecto no necesite conservar."
+        },
+        {
+          "kind": "bullet",
+          "text": "Confidencialidad. Establecer acuerdos con desarrolladores, asesores, profesionales y proveedores que accedan a datos; prohibir el uso de información de los usuarios para fines propios no autorizados."
+        },
+        {
+          "kind": "bullet",
+          "text": "Transparencia. Publicar una política de privacidad comprensible, habilitar un canal de consultas y solicitudes y explicar cómo gestionar permisos, correcciones o eliminación de datos cuando corresponda legalmente."
+        },
+        {
+          "kind": "bullet",
+          "text": "Respaldo y eliminación. Programar copias de seguridad y comprobar periódicamente su recuperación; aplicar procedimientos de conservación y eliminación segura cuando los datos dejen de ser necesarios."
+        },
+        {
+          "kind": "heading",
+          "text": "Límites de las orientaciones y protección de usuarios"
+        },
+        {
+          "kind": "paragraph",
+          "text": "Los contenidos educativos y las asesorías gestionadas por PATIPS deberán identificar el perfil del profesional participante y distinguir entre información general, orientación educativa y atención clínica. La aplicación no deberá presentar contenidos generales como diagnóstico médico o psicológico ni como sustituto de una consulta presencial cuando la situación lo requiera. Se establecerá un procedimiento para orientar al usuario hacia un servicio de salud o de emergencia cuando describa señales de peligro, sin intentar resolver a través de la plataforma una urgencia que necesite atención inmediata. Los profesionales deberán respetar los límites de su especialidad, la confidencialidad y las obligaciones de su profesión."
+        }
+      ]
+    },
+    {
+      "title": "Identificación y prevención de riesgos",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "PATIPS mantendrá un registro sencillo de riesgos que se actualizará antes del lanzamiento, después de un incidente y cuando cambien las funciones de la aplicación, los kits, los proveedores o los mercados atendidos. Para cada riesgo se registrará su causa, posible consecuencia, nivel de prioridad, medida preventiva, persona responsable y fecha de revisión. El fundador podrá ordenar los riesgos por probabilidad e impacto, priorizando aquellos que afecten a niños, datos personales, seguridad física o continuidad del servicio."
+        },
+        {
+          "kind": "bullet",
+          "text": "Filtración o pérdida de datos. Reducir la información recopilada, limitar permisos, mantener respaldos y contar con un procedimiento de contención, investigación y comunicación del incidente según corresponda."
+        },
+        {
+          "kind": "bullet",
+          "text": "Contenido incorrecto o desactualizado. Revisar los materiales por parte de profesionales competentes, registrar la fecha de actualización y corregir o retirar de inmediato información que pueda inducir a decisiones perjudiciales."
+        },
+        {
+          "kind": "bullet",
+          "text": "Defecto o uso inadecuado de un kit. Evaluar proveedores y componentes, revisar cada lote recibido, incluir etiquetas e instrucciones comprensibles y gestionar de manera trazable los reclamos y retiros."
+        },
+        {
+          "kind": "bullet",
+          "text": "Interrupción de la aplicación o de los pagos. Probar las actualizaciones, mantener respaldos, conservar contactos de soporte y comunicar las incidencias relevantes a los usuarios afectados."
+        },
+        {
+          "kind": "bullet",
+          "text": "Accidente durante la preparación o despacho. Mantener áreas despejadas, capacitar en manipulación segura de paquetes y disponer de rutas de evacuación y medios de comunicación para emergencias."
+        },
+        {
+          "kind": "bullet",
+          "text": "Falla de un proveedor o profesional. Formalizar los compromisos, verificar referencias y competencias pertinentes, establecer criterios de calidad y contar con alternativas para funciones críticas."
+        },
+        {
+          "kind": "paragraph",
+          "text": "Los incidentes deberán registrarse con fecha, descripción, personas responsables de la respuesta, medidas adoptadas y acciones correctivas. El análisis posterior buscará prevenir la repetición y no limitarse a atribuir culpas. Cuando exista riesgo inmediato para un niño o una persona usuaria, se priorizará la protección de la persona, la interrupción temporal del servicio o producto implicado y la comunicación con los responsables pertinentes."
+        }
+      ]
+    },
+    {
+      "title": "Plan de emergencia y respuesta ante incidentes",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "El plan de emergencia tendrá en cuenta los riesgos del espacio utilizado para las labores administrativas y el almacenamiento de kits. Deberán estar identificadas las salidas, las zonas seguras y los contactos para solicitar ayuda. Las vías de evacuación permanecerán libres y los equipos eléctricos se utilizarán de acuerdo con sus instrucciones. La preparación, los simulacros y la definición de rutas de evacuación deben ajustarse a las condiciones del lugar y a las orientaciones de las autoridades competentes, entre ellas el Instituto Nacional de Defensa Civil (INDECI, 2022)."
+        },
+        {
+          "kind": "paragraph",
+          "text": "Ante un sismo, incendio, accidente o situación que amenace la integridad de una persona, se suspenderá la actividad, se priorizará la evacuación o atención inmediata y se contactará a los servicios de emergencia que correspondan. No se reanudará la operación hasta comprobar que el área es segura. Si ocurre un incidente digital, como acceso no autorizado, pérdida de un dispositivo o exposición de datos, se restringirá el acceso afectado, se cambiarán credenciales, se conservarán los registros útiles para la investigación y se contactará al proveedor tecnológico. Luego se evaluarán las obligaciones de comunicación a usuarios y autoridades dentro de los plazos previstos por la normativa aplicable."
+        },
+        {
+          "kind": "paragraph",
+          "text": "Después de un incidente, el responsable documentará los hechos, el alcance conocido, las medidas tomadas y las mejoras necesarias. La recuperación del servicio deberá incluir pruebas de funcionamiento y, cuando corresponda, verificación de la integridad de los datos, de los productos y de las condiciones del espacio. No se difundirá información especulativa sobre el incidente; las comunicaciones deberán ser oportunas, precisas y proporcionales al riesgo."
+        }
+      ]
+    },
+    {
+      "title": "Capacitación y cumplimiento de las normas de seguridad",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "Antes de iniciar actividades, el fundador y cualquier colaborador deberán recibir instrucciones acordes con sus funciones. La capacitación mínima abarcará prevención de accidentes, orden y ergonomía, manipulación de kits, revisión de advertencias, protección de datos, uso seguro de los sistemas, atención de incidentes y límites de las orientaciones ofrecidas por la plataforma. Los profesionales incorporados deberán conocer las reglas de confidencialidad y el procedimiento para derivar situaciones que excedan sus competencias."
+        },
+        {
+          "kind": "paragraph",
+          "text": "PATIPS conservará evidencia básica de las inducciones, revisiones de seguridad, pruebas de recuperación de respaldos, incidencias, reclamos por productos y acciones correctivas. Se recomienda verificar mensualmente los accesos a sistemas y el estado de los pedidos o reclamos pendientes; cada trimestre, revisar riesgos prioritarios, controles tecnológicos y desempeño de proveedores; y al menos una vez al año, revisar integralmente la política o antes si aparece un cambio normativo, tecnológico u operativo relevante."
+        },
+        {
+          "kind": "paragraph",
+          "text": "Como indicadores internos iniciales, PATIPS puede medir: porcentaje de kits revisados antes de su despacho; porcentaje de colaboradores y terceros con acceso a datos que han recibido capacitación; número de incidentes de seguridad registrados; proporción de respaldos cuya recuperación se ha probado; y tiempo transcurrido entre un reclamo de seguridad y la adopción de una medida preventiva. Las metas deberán definirse a partir de la capacidad real del emprendimiento y revisarse con evidencia, sin presentar estimaciones como resultados ya alcanzados."
+        },
+        {
+          "kind": "paragraph",
+          "text": "La presente política entrará en aplicación operativa cuando sea aprobada por la dirección del emprendimiento. Deberá ser comunicada a los colaboradores y proveedores pertinentes, estar disponible para consulta y revisarse para mantener su utilidad. Su cumplimiento no reemplaza la evaluación específica de las obligaciones legales aplicables a cada producto, servicio, relación laboral o mercado de destino; por ello, antes de la comercialización, PATIPS deberá verificar las autorizaciones, registros, contratos y demás requisitos que correspondan."
+        }
+      ]
+    },
+    {
+      "title": "Referencias",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "Congreso de la República del Perú. (2011a). Ley N.° 29733, Ley de Protección de Datos Personales. https://www.gob.pe/institucion/congreso-de-la-republica/normas-legales/243470"
+        },
+        {
+          "kind": "paragraph",
+          "text": "Congreso de la República del Perú. (2011b). Ley N.° 29783, Ley de Seguridad y Salud en el Trabajo. https://www.gob.pe/institucion/congreso-de-la-republica/normas-legales/462576-29783"
+        },
+        {
+          "kind": "paragraph",
+          "text": "Instituto Nacional de Defensa Civil. (2022, 10 de junio). Recibir información u orientación sobre preparación ante emergencias y desastres. Plataforma digital única del Estado Peruano. https://www.gob.pe/10148-recibir-informacion-u-orientacion-sobre-preparacion-ante-emergencias-y-desastres"
+        },
+        {
+          "kind": "paragraph",
+          "text": "Ministerio de Justicia y Derechos Humanos. (2024, 30 de noviembre). Decreto Supremo N.° 016-2024-JUS, que aprueba el Reglamento de la Ley N.° 29733, Ley de Protección de Datos Personales. https://www.gob.pe/institucion/anpd/normas-legales/6554453-n-016-2024-jus"
+        },
+        {
+          "kind": "paragraph",
+          "text": "Ministerio de Salud. (2007, 15 de septiembre). Decreto Supremo N.° 008-2007-SA, Reglamento de la Ley N.° 28376, Ley que prohíbe y sanciona la fabricación, importación, distribución y comercialización de juguetes y útiles de escritorio tóxicos o peligrosos. https://www.gob.pe/institucion/minsa/normas-legales/249239-008-2007-sa"
+        },
+        {
+          "kind": "paragraph",
+          "text": "Presidencia de la República del Perú. (2012, 25 de abril). Decreto Supremo N.° 005-2012-TR, Reglamento de la Ley N.° 29783, Ley de Seguridad y Salud en el Trabajo. https://www.gob.pe/institucion/presidencia/normas-legales/462577-005-2012-tr"
+        }
+      ]
+    }
+  ]
+}
